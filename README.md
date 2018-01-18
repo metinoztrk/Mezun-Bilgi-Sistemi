@@ -5,6 +5,6 @@ GELİŞTİRİCİLER
 
 Metin ÖZTÜRK    
 
-[a link](https://github.com/yigitkurtcu)
+[Yiğit KURTÇU](https://github.com/yigitkurtcu)
 
 Sergen ESENDEMİR
