@@ -4,5 +4,5 @@ Veri yapıları kullanılarak geliştirilmiş uygulamadır
 GELİŞTİRİCİLER
 
 Metin ÖZTÜRK    
-https://github.com/yigitkurtcu   
+Yiğit KURTÇU 
 Sergen ESENDEMİR
