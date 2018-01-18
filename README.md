@@ -1,7 +1,7 @@
 # Mezun-Bilgi-Sistemi
 Veri yapıları kullanılarak geliştirilmiş uygulamadır
 
-GELİŞTİRİCİLER 
-Metin ÖZTÜRK
-Yiğit KURTÇU
-Sergen ESENDEMİR
+GELİŞTİRİCİLER \n
+Metin ÖZTÜRK    \n
+Yiğit KURTÇU    \n
+Sergen ESENDEMİR \n
